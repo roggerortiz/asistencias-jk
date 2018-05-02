@@ -1,0 +1,20 @@
+C:\JanKomensky\Entidades\bin\Debug\Entidades.dll
+C:\JanKomensky\Entidades\bin\Debug\Entidades.pdb
+C:\JanKomensky\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\JanKomensky\Entidades\obj\Debug\Entidades.dll
+C:\JanKomensky\Entidades\obj\Debug\Entidades.pdb
+D:\JanKomensky\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\JanKomensky\Entidades\obj\Debug\Entidades.dll
+D:\JanKomensky\Entidades\bin\Debug\Entidades.dll
+D:\JanKomensky\Entidades\bin\Debug\Entidades.pdb
+D:\JanKomensky\Entidades\obj\Debug\Entidades.pdb
+D:\proyectos\c#\JanKomensky\Entidades\bin\Debug\Entidades.dll
+D:\proyectos\c#\JanKomensky\Entidades\bin\Debug\Entidades.pdb
+D:\proyectos\c#\JanKomensky\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\proyectos\c#\JanKomensky\Entidades\obj\Debug\Entidades.dll
+D:\proyectos\c#\JanKomensky\Entidades\obj\Debug\Entidades.pdb
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\Entidades\bin\Debug\Entidades.dll
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\Entidades\bin\Debug\Entidades.pdb
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\Entidades\obj\Debug\Entidades.dll
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\Entidades\obj\Debug\Entidades.pdb

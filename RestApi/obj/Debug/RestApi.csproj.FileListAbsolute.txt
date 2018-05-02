@@ -1,0 +1,28 @@
+C:\JanKomensky\RestApi\bin\Debug\RestApi.dll
+C:\JanKomensky\RestApi\bin\Debug\RestApi.pdb
+C:\JanKomensky\RestApi\bin\Debug\Entidades.dll
+C:\JanKomensky\RestApi\bin\Debug\Entidades.pdb
+C:\JanKomensky\RestApi\obj\Debug\RestApi.csprojResolveAssemblyReference.cache
+C:\JanKomensky\RestApi\obj\Debug\RestApi.dll
+C:\JanKomensky\RestApi\obj\Debug\RestApi.pdb
+D:\JanKomensky\RestApi\bin\Debug\RestApi.dll
+D:\JanKomensky\RestApi\bin\Debug\RestApi.pdb
+D:\JanKomensky\RestApi\bin\Debug\Entidades.dll
+D:\JanKomensky\RestApi\bin\Debug\Entidades.pdb
+D:\JanKomensky\RestApi\obj\Debug\RestApi.csprojResolveAssemblyReference.cache
+D:\JanKomensky\RestApi\obj\Debug\RestApi.dll
+D:\JanKomensky\RestApi\obj\Debug\RestApi.pdb
+D:\proyectos\c#\JanKomensky\RestApi\bin\Debug\RestApi.dll
+D:\proyectos\c#\JanKomensky\RestApi\bin\Debug\RestApi.pdb
+D:\proyectos\c#\JanKomensky\RestApi\bin\Debug\Entidades.dll
+D:\proyectos\c#\JanKomensky\RestApi\bin\Debug\Entidades.pdb
+D:\proyectos\c#\JanKomensky\RestApi\obj\Debug\RestApi.csprojResolveAssemblyReference.cache
+D:\proyectos\c#\JanKomensky\RestApi\obj\Debug\RestApi.dll
+D:\proyectos\c#\JanKomensky\RestApi\obj\Debug\RestApi.pdb
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\bin\Debug\RestApi.dll
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\bin\Debug\RestApi.pdb
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\bin\Debug\Entidades.dll
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\bin\Debug\Entidades.pdb
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\obj\Debug\RestApi.csprojResolveAssemblyReference.cache
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\obj\Debug\RestApi.dll
+D:\sistemas\desarrollo\Desarrollo C#\JanKomensky\RestApi\obj\Debug\RestApi.pdb
